@@ -15,7 +15,7 @@
     "js"
   ],
   "author": "Wesly Gatner (https://github.com/wesgtr)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wesgtr/webpack-js/issues"
   },
