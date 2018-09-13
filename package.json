@@ -1,0 +1,23 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "A basic Webpack to start a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesgtr/webpack-js.git"
+  },
+  "keywords": [
+    "webpack",
+    "js"
+  ],
+  "author": "Wesly Gatner (https://github.com/wesgtr)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesgtr/webpack-js/issues"
+  },
+  "homepage": "https://github.com/wesgtr/webpack-js#readme"
+}
